@@ -1,1 +1,87 @@
 
+Treinamentos para Product Owners:
+
+                                       		Introdução
+Papel do Product Owner:  Pessoa responsável por gerir o product Backlog e assegurar o valor do trabalho feito pelo time, este papel mantém o product backlog e assegura o que o mesmo esteja visível para todos os envolvidos, Ele é o único responsável por decidir o que será feito e em qual a ordem de prioridade.
+Product Backlog: dado por uma lista que prioriza o trabalho para a equipe de desenvolvimento derivado do roteiro dos produtos e seus requisitos.(Pacote  de funcionalidades a serem desenvolvidas em um projeto).
+
+
+Sprint: é dado como projetos que são gerenciados de tal forma que o fluxo de trabalho é dividido em períodos curtos para facilitar o desenvolvimento de projetos complexos( ciclos de cada projeto, em geral são  mensais e são determinados para que as tarefas sejam realizadas.)
+
+Scrum:  dado por um framework para fazer o trabalho ágil,  dessa forma, o scrum usa todos os princípios fundamentais do ágil para definir métodos que viabilizam um projeto, em outras palavras é como ajudar às equipes de desenvolvimento estruturar e gerenciar o trabalho  por meio do conjunto de valores e princípios.
+
+Granularidade: Dado como um detalhamento das informações e de tarefas que são divididas  e gerenciadas.
+
+Epics:   No contexto de desenvolvimento ágil epics representa uma grande ideia ou iniciativa que pode ser dividida em várias tarefas menores.
+
+ PO (Product Owner): lidera o esforço de desenvolvimento para criar um produto que gere os benefícios desejados, que inclui: 
+Criar uma visão do produto,  cuidar do produto backlog, criar o plano de liberações, envolver os clientes, usuários e outros  stakeholders, gerenciar o orçamento, preparar apresentação do produto, estar presente nas reuniões do scrum, colaborar com o time.
+
+Características desejáveis
+
+Visionário
+Líder e Participar do Time
+Comunicador e negociador
+Poder suficiente e comprometido
+Disponível e Qualificado
+
+
+
+No gerenciamento de projetos, às responsabilidades da gestão não são exercidas por uma única pessoa no scrum, por isso temos os product Owners e time, ou seja:
+
+Product Owners: responsável por gerenciar a data, escopo, orçamento, comunicar o progresso, colaborar com os stakeholders.
+
+Time: identificar, estimar e gerenciar as tarefas.
+ Já os gerentes de projetos, eles acabam tornando os excelentes product owners.
+
+Visão do Produto
+
+Imaginar o produto resulta na visão do produto, ou seja, um rascunho do produto futuro, a visão descreve o produto em um nível de granularidade grossa, captura  a essência do produto.
+
+Qualidades Desejáveis da Visão
+
+Compartilhada e unificada, possui um objetivo  amplo e atraente, e curto.
+
+Simplicidade e o produto Mínimo: A Simplicidade facilita a criação do produto com funcionalidade mínima, o termo simplicidade na questão do produto está relacionado ao fato de focar na essência do produto,  capaz de construir somente o necessário e de expandir e ajustar o produto facilmente.
+
+
+
+
+Cuidados do Product Backlog
+
+ O product Owner é responsável pelo product backlog, ou seja a gestão é  um processo colaborativo, e o scrum aloca 10% da disponibilidade do time em atividades de gerência do PB.
+
+Descoberta e Estruturação de itens do product Backlog
+
+Agrupar os itens relacionados em temas é uma excelente prática
+
+Scrum: trabalha com uma abordagem diferente.
+Requisitos são descobertos e detalhados durante todo o projeto do software.
+
+Requisitos não funcionais que suportam todo o produto são exceções para esta regra. exemplos como performance, experiência do usuário.
+Os Scrum não determinam como os itens são descritos.
+
+Priorização de itens do PB:
+
+Conhecimento, incerteza e risco, dependências.
+
+Preparação para o planejamento do Sprint: é necessário ter uma reunião antes, os itens do PV que serão  trabalhados no próximo sprint devem ser preparados, 
+	 Iniciamos a preparação escolhendo um objetivo do sprint.
+O objetivo do sprint é resumir  o resultado desejado no final da iteração, dessa forma, o time deve participar na sua formulação.
+
+Histórias de granularidade grossa são chamadas de epics( grande ideia ou iniciativa que pode ser dividida em várias tarefas menores)
+
+
+Aula 08/08/2024 
+
+
+Requisitos Não  Funcionais:  é dado como atrelado a todos os requisitos,  e podemos definir como pronto, exemplo: performance, experiência do usuário. Porém o trabalho dedicado é necessário para implementar um requisito não funcional.
+
+PO e ScrumMaster não devem estimar nem influenciar as estimativas., mas todavia o PO deve estar presente na reunião
+
+
+Erros Comuns: 
+
+O PO é considerado algo muito difícil de ser usado.
+
+Os erros podem estar relacionados ao fato de especificações de requisitos disfarçados de backlog,
