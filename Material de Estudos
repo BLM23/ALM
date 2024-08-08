@@ -1,10 +1,9 @@
 
-Treinamentos para Product Owners:
+                                                      			 Treinamentos para Product Owners
 
-                                       		Introdução
+                                       		                  	       Introdução
 Papel do Product Owner:  Pessoa responsável por gerir o product Backlog e assegurar o valor do trabalho feito pelo time, este papel mantém o product backlog e assegura o que o mesmo esteja visível para todos os envolvidos, Ele é o único responsável por decidir o que será feito e em qual a ordem de prioridade.
 Product Backlog: dado por uma lista que prioriza o trabalho para a equipe de desenvolvimento derivado do roteiro dos produtos e seus requisitos.(Pacote  de funcionalidades a serem desenvolvidas em um projeto).
-
 
 Sprint: é dado como projetos que são gerenciados de tal forma que o fluxo de trabalho é dividido em períodos curtos para facilitar o desenvolvimento de projetos complexos( ciclos de cada projeto, em geral são  mensais e são determinados para que as tarefas sejam realizadas.)
 
@@ -72,9 +71,9 @@ O objetivo do sprint é resumir  o resultado desejado no final da iteração, de
 Histórias de granularidade grossa são chamadas de epics( grande ideia ou iniciativa que pode ser dividida em várias tarefas menores)
 
 
-Aula 08/08/2024 
+						Aula 08/08/2024 
 
-
+ Video 13: 
 Requisitos Não  Funcionais:  é dado como atrelado a todos os requisitos,  e podemos definir como pronto, exemplo: performance, experiência do usuário. Porém o trabalho dedicado é necessário para implementar um requisito não funcional.
 
 PO e ScrumMaster não devem estimar nem influenciar as estimativas., mas todavia o PO deve estar presente na reunião
@@ -84,4 +83,21 @@ Erros Comuns:
 
 O PO é considerado algo muito difícil de ser usado.
 
-Os erros podem estar relacionados ao fato de especificações de requisitos disfarçados de backlog,
+Os erros podem estar relacionados ao fato de especificações de requisitos disfarçados de backlog.
+
+					  Plano de Liberações
+
+Video 14: 
+
+Esse plano de liberação, define como o apoio do desenvolvimento e o início do produto de sucesso.
+Resultado de esforço colaborativo, responde a questão de quais funcionalidades o projeto entregará e quando.
+
+Tempo, Custo e Funcionalidade: dado como um tripé e nao pode ser comprometido para se ter um produto de sucesso.
+fixar  o tempo e o custo e a funcionalidade não é sempre possível, umas das variáveis dev ser flexibilizada.
+Qualidade Intrínseca: No scrum é o critério de qualidade é capturado na definição de pronto.
+Os critérios de qualidade são aferidas durante todo o ciclo de desenvolvimento do software em métodos ágeis, além disso a garantia de qualidade e medidas  de controle formam uma parote integral  do sprint.
+No desenvolvimento do software é crucial assegurar que os sprints entregam incrimentos de software com a qualidade correta, isso é de acordo com o critério de aceitação das Uss e definição de Pronto.
+Manifesto ágil: os programadores priorizam  satisfazer os clientes com entregas rápidas e contínuas de software de valor, a qualidade do sftware está então conforme  o critério de aceitação e definição de pronto  e deve satisfazer em todos os sprints.
+
+Em termos de velocidade indiaca a soma dos esforços de desenvolvimento aceito pelo PO no final do sprint, ou seja, o manifesto ágil de entregar o software funcionando.
+
